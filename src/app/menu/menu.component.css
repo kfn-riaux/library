@@ -1,0 +1,24 @@
+a{
+  background-color: #c5e1a5;
+  text-align: center;
+  padding: 12px;
+  margin-bottom: 30px;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 4px;
+  color: #424242;
+  letter-spacing: 0.2em;
+  text-indent: 0.2em;
+}
+
+a:hover{
+  background-color: #94af76;
+  transition: all 100ms ease-in;
+}
+
+div{
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin:0 auto;
+}

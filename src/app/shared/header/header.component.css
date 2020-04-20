@@ -1,0 +1,20 @@
+.header{
+  display: flex;
+  background-color: #94af76;
+  margin-bottom: 50px;
+}
+.systemName{
+  font-size: 32px;
+  margin: 10px;
+  color: #424242;
+  letter-spacing: 0.2em;
+  text-indent: 0.2em;
+}
+
+.userName{
+  display: block;
+  text-align: right;
+}
+
+a{
+}
