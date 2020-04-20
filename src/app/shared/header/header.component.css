@@ -1,20 +1,13 @@
 .header{
   display: flex;
-  background-color: #94af76;
-  margin-bottom: 50px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #bdb9b7;
+  padding: 10px;
+  margin-bottom: 30px;
+  color: #000000;
 }
 .systemName{
   font-size: 32px;
-  margin: 10px;
-  color: #424242;
-  letter-spacing: 0.2em;
-  text-indent: 0.2em;
 }
 
-.userName{
-  display: block;
-  text-align: right;
-}
-
-a{
-}
